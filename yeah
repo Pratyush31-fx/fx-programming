@@ -1,0 +1,11 @@
+class circle
+{
+    void main(double r)
+    {
+        double a,c;
+        a=3.14*r*r;
+        c=2*3.14*r;
+        System.out.println("The area of circle="+a);
+        System.out.println("The circumfearance of circle="+c);
+    }
+}
